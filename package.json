@@ -1,0 +1,23 @@
+{
+  "name": "nodenightly",
+  "version": "1.0.0",
+  "description": "node practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamanAncy/NodeNightly.git"
+  },
+  "author": "Naman Chakrawarti, Koustubh Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamanAncy/NodeNightly/issues"
+  },
+  "homepage": "https://github.com/NamanAncy/NodeNightly#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
